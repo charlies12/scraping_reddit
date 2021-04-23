@@ -1,2 +1,3 @@
 # scraping_reddit
-going through reddit...kind of
+Going through reddit...kind of.
+Learning from tutorials.
